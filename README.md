@@ -1,12 +1,4 @@
-You’re close—but this version still has **formatting issues and weak presentation**. If you upload it like this, it will look careless on GitHub.
 
-Here’s your **final polished, recruiter-grade README** — clean, properly formatted, and actually professional.
-
----
-
-# ✅ 🔥 FINAL PROFESSIONAL README (READY TO PASTE)
-
-```markdown
 # 🏢 Employee Performance Predictor using Data Analytics
 
 ## 🚀 Overview
