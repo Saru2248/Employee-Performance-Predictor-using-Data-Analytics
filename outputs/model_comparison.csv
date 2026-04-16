@@ -1,0 +1,6 @@
+,CV Mean Acc,CV Std,Test Acc,F1 Score
+XGBoost,0.8675,0.0203,0.895,0.8909
+Gradient Boosting,0.8588,0.0372,0.89,0.8834
+SVM,0.8875,0.024,0.885,0.8849
+Random Forest,0.8588,0.0109,0.845,0.8388
+Logistic Regression,0.8412,0.032,0.825,0.8381

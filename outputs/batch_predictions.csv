@@ -1,0 +1,51 @@
+employee_id,predicted_perf,confidence_%,recommendation,attrition_risk
+EMP0001,High,98.26,"⭐ High Performer — Consider for promotion, leadership roles, or mentoring programs.",Low — Strong performer likely satisfied
+EMP0002,Medium,99.79,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0003,Medium,99.43,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0004,Medium,99.77,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0005,Medium,99.9,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0006,Medium,99.96,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0007,Medium,99.85,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0008,Medium,99.16,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0009,Medium,99.98,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0010,Medium,85.77,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0011,High,86.81,"⭐ High Performer — Consider for promotion, leadership roles, or mentoring programs.",Low — Strong performer likely satisfied
+EMP0012,High,99.34,"⭐ High Performer — Consider for promotion, leadership roles, or mentoring programs.",Low — Strong performer likely satisfied
+EMP0013,Medium,99.81,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0014,High,97.73,"⭐ High Performer — Consider for promotion, leadership roles, or mentoring programs.",Low — Strong performer likely satisfied
+EMP0015,Medium,99.31,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0016,High,99.35,"⭐ High Performer — Consider for promotion, leadership roles, or mentoring programs.",Low — Strong performer likely satisfied
+EMP0017,Medium,99.83,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0018,Medium,99.7,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0019,Medium,99.68,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0020,Medium,99.23,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0021,Medium,99.92,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0022,Medium,99.73,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0023,Medium,99.39,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0024,Medium,98.99,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0025,Low,96.2,"⚠️ Low Performer — Immediate intervention needed: PIP (Performance Improvement Plan), coaching.",High — At risk of leaving or disengagement
+EMP0026,Medium,99.72,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0027,Medium,99.06,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0028,Medium,98.87,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0029,Medium,99.64,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0030,Medium,98.44,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0031,Medium,99.82,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0032,Medium,99.69,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0033,Medium,99.79,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0034,Medium,99.64,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0035,Medium,99.81,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0036,Medium,98.16,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0037,Medium,99.83,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0038,High,97.06,"⭐ High Performer — Consider for promotion, leadership roles, or mentoring programs.",Low — Strong performer likely satisfied
+EMP0039,Medium,99.82,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0040,Medium,61.41,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0041,Medium,97.0,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0042,Medium,99.69,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0043,Medium,99.89,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0044,Medium,87.05,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0045,Medium,99.86,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0046,Medium,99.3,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0047,Medium,99.06,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0048,Medium,97.41,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0049,Medium,99.96,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully
+EMP0050,Medium,99.74,"📈 Moderate Performer — Provide targeted training, set SMART goals, increase engagement.",Medium — Monitor carefully

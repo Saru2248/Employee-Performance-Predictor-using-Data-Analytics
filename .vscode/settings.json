@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Urmila Dhumal\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Urmila Dhumal\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+    ]
+}
